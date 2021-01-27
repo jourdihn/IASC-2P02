@@ -1,17 +1,17 @@
-#Digital Scholarship Portfolio: Jordan Smith
+# Digital Scholarship Portfolio: Jordan Smith
 tagline maybe? 
 
-##Design Challenges 
+## Design Challenges 
 
-###Interactive Study Guide
+### Interactive Study Guide
 something something something here 
 
-###Interactive Genealogy 
+### Interactive Genealogy 
 something something something here  
 
-##Speculative Fiction
-###Story Title Here
+## Speculative Fiction
+### Story Title Here
 more something something something here 
 
-##Interactive Timeline
+## Interactive Timeline
 something something something here 
