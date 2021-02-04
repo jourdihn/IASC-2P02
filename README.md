@@ -4,7 +4,10 @@ tagline maybe?
 ## Design Challenges 
 
 ### Interactive Study Guide
-something something something here 
+View the interactive study guide I made for Jussi Parrika's "What is Media Archeology? The Old and the New" 
+
+<button name="button" onclick="2P02InteractiveStudyGuide.html"> View
+</button>
 
 ### Interactive Genealogy 
 something something something here  
