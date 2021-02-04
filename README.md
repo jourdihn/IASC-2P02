@@ -10,11 +10,14 @@ An interactive study guide for Jussi Parrika's "What is Media Archeology? The Ol
 [<button name="button"> View </button>](2P02InteractiveStudyGuide.html)
 
 ### Interactive Genealogy 
-Nothing here yet :( 
+Nothing here yet 
 
 ## Speculative Fiction
 ### Story Title Here
-Nothing here yet :(
+Nothing here yet 
+
+### Micro Essay
+Still nothing 
 
 ## Interactive Timeline
-Nothing here yet :( 
+Unfortunately, there still seems to be an abundance of nothing 
