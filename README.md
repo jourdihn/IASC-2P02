@@ -1,19 +1,20 @@
 # Digital Scholarship Portfolio: Jordan Smith
-tagline maybe? 
+
+Welcome to my online portfolio for IASC 2P02: Problems and Solutions in Interactive Arts & Science
 
 ## Design Challenges 
 
 ### Interactive Study Guide
-View the interactive study guide I made for Jussi Parrika's "What is Media Archeology? The Old and the New" 
+An interactive study guide for Jussi Parrika's "What is Media Archeology? The Old and the New" 
 
 [<button name="button"> View </button>](2P02InteractiveStudyGuide.html)
 
 ### Interactive Genealogy 
-something something something here  
+Nothing here yet :( 
 
 ## Speculative Fiction
 ### Story Title Here
-more something something something here 
+Nothing here yet :(
 
 ## Interactive Timeline
-something something something here 
+Nothing here yet :( 
