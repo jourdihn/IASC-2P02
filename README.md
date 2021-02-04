@@ -6,8 +6,8 @@ tagline maybe?
 ### Interactive Study Guide
 View the interactive study guide I made for Jussi Parrika's "What is Media Archeology? The Old and the New" 
 
-<button name="button" onclick="2P02InteractiveStudyGuide.html"> View
-</button>
+[<button name="button"> View </button>](2P02InteractiveStudyGuide.html)
+[link button] 
 
 ### Interactive Genealogy 
 something something something here  
