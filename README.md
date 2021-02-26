@@ -84,7 +84,8 @@ Well, I hadn’t expected this to happen.
 I really needed to get my phone fixed. 
 
 ### Micro Essay
-Still nothing 
+My story is based in a world where cell phones where never invented and follows a character who struggles to make a call to someone they care about when their personal landline breaks. In this story, I tried to focus mainly on how both old and new media are repurposed to make an old version of technology viable in our modern society.  In week 3, we read Jussi Parikka’s What is Media Archeology? The Old and the New. One of the key quotes from this text was, “New media remediates old media […] New media might be here and slowly changing our user habits, but old media never left us.” 
+I think this quote could applied to my story in the sense that my story is very much a reflection of life in my parent’s age; A version of life that has already existed. In my world, landlines are the main way for people to communicate; By 2015, society in my story has evolved existing technologies to better support this old and decrepit form of technology. For example, the main character describes a pager that displays a call request amongst other notifications. I imagine that in my version of 2015, the pager has evolved into a more digital and robust version of what exists today. Another example of old, yet evolved technology in my story is the concept of the call centres. I imagine those to essentially be phone booths that utilize a form of user maintenance and pay system similar to the presto pass or a loyalty card. These call centres essentially are using an old technology (phone booths / landlines) and then remediating newer technology (personalized payment cards) to better fit society’s needs.
 
 ## Interactive Timeline
 Unfortunately, there still seems to be an abundance of nothing 
