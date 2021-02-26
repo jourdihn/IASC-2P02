@@ -16,6 +16,7 @@ Nothing here yet
 ### 1-800-CHAOS
 
 Of all the things I was expecting to wake up to, this was not it; A call request from Beth sat on the screen of my pager amongst the myriad of other notifications.
+
 This was from a while ago, how long has she been waiting? 
 
 I rushed to get myself out of bed and to a phone, any phone that I could use to call Beth. Unfortunately, my phone currently sat broken in the kitchen, which meant that I was going to have to get to a call centre fast if I was going to have a hope in hell in catching her before she left for work. If only I had gotten it fixed sooner.
